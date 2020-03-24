@@ -17,7 +17,7 @@ const ContenedorHeader = styled.div`
     }
 `;
 
-const Logo = styled.p`
+const Logo = styled.a`
     color: var(--naranja);
     font-size: 4rem;
     line-height: 0;
@@ -33,8 +33,6 @@ const Logo = styled.p`
 const Header = () => {
 
     const { usuario, firebase } = useContext(FirebaseContext);
-
-    //Carpeta 39 video 1
 
     return (
         <header

@@ -47,11 +47,14 @@ const Layout = (props) => {
                     a {
                         text-decoration: none
                     }
+
+                    img {
+                        max-width: 100%;
+                    }
                 `}
             />
 
             <Head>
-                <html lang="es" />
                 <title>Product Hunt Firebase y Next.js</title>
                 <link 
                     rel="stylesheet" 
