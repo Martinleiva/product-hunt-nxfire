@@ -1,3 +1,9 @@
+## Product Hunt Clon
+
+Proyecto creado a partir de Next.js y Firebase que emula la pagina [Product-Hunt](https://www.producthunt.com/)
+
+Link al proyecto [Product Hunt Clon](https://product-hunt-6c064.web.app/)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
